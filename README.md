@@ -64,5 +64,4 @@ To use this code:
 3. Update the file path in the code to point to the downloaded dataset.
 4. Run the Python notebook.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
