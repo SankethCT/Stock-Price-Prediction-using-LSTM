@@ -56,6 +56,8 @@ Dataset Source: [Quandl - NSE/TATAGLOBAL](https://www.quandl.com/data/NSE/TATAGL
 - The trained model is used to make predictions on both the training and test sets.
 - Predictions are inverse-transformed to the original scale for visualization.
 - Baseline and predicted stock prices are plotted to visualize the model's performance.
+![image](https://github.com/SankethCT/Stock-Price-Prediction-using-LSTM/assets/166771438/6015c476-6384-425b-85e7-4fae6aa44769)
+
 
 ## Usage
 To use this code:
