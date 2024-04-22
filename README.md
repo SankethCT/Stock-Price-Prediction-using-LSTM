@@ -62,8 +62,6 @@ Dataset Source: [Quandl - NSE/TATAGLOBAL](https://www.quandl.com/data/NSE/TATAGL
 ## Usage
 To use this code:
 1. Clone this repository.
-2. Download the dataset from the provided source.
-3. Update the file path in the code to point to the downloaded dataset.
-4. Run the Python notebook.
+2. Run the Python notebook.
 
 
